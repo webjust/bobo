@@ -1,2 +1,15 @@
+英文在线教育
+https://www.codeschool.com/
+
+http://try.jquery.com/
+
 http://www.mm131.com/xinggan/
 http://blog.lxx1.com/2253
+
+一个http请求发送到后端的详细过程
+http://blog.csdn.net/jinshuaiwang/article/details/25136337
+
+http://www.ruanyifeng.com/blog/
+
+社区
+https://segmentfault.com/

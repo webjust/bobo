@@ -1,1 +1,8 @@
+阿里云镜像
 http://mirrors.aliyun.com/
+
+Linux公社
+http://www.linuxidc.com/
+
+防火墙
+http://www.linuxidc.com/Linux/2016-12/138474.htm
